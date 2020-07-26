@@ -4,15 +4,15 @@
 <head>
   <meta charset="utf-8">
   <title>Childhood</title>
-   <link rel="stylesheet" type = "text/css" href="style.css">
   <link rel="icon" href="favicon.ico">
+     <link rel="stylesheet" type = "text/css" href="style.css">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
 
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" type = "text/css" href="style.css">
 
   <!-- Font Awesome -->
   <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
